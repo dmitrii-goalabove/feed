@@ -148,7 +148,7 @@
             <price>4299</price>
             <useBonuses>true</useBonuses>
             <badge textColor="#000" bgColor="#CCFF33">NEW</badge>
-            <currencyId>RUB</currency>
+            <currencyId>RUB</currencyId>
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FSC/920/800_1200_2/FSC21022B_920_100.jpg?cdn=1666094943</picture>
             <param name="Размер">S</param>
             <param name="Размер">M</param>
