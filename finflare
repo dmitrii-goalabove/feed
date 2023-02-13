@@ -168,7 +168,7 @@
             <price>4299</price>
             <useBonuses>true</useBonuses>
             <badge textColor="#000" bgColor="#CCFF33">NEW</badge>
-            <currencyId>RUB</currency>
+            <currencyId>RUB</currencyId>
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FSC/101/800_1200_2/FSC21022B_101_100.jpg?cdn=1666094942</picture>
             <param name="Размер">S</param>
             <param name="Размер">M</param>
@@ -188,7 +188,7 @@
             <price>4299</price>
             <useBonuses>true</useBonuses>
             <badge textColor="#000" bgColor="#CCFF33">NEW</badge>
-            <currencyId>RUB</currency>
+            <currencyId>RUB</currencyId>
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FSC/101/800_1200_2/FSC21022B_101_100.jpg?cdn=1666094942</picture>
             <param name="Размер">S</param>
             <param name="Размер">M</param>
@@ -209,7 +209,7 @@
             <price>4699</price>
             <useBonuses>true</useBonuses>
             <badge textColor="#000" bgColor="#CCFF33">-58%</badge>
-            <currencyId>RUB</currency>
+            <currencyId>RUB</currencyId>
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/S19/205/800_1200_2/S19-22008_205_10.jpg?cdn=1554468881</picture>
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/S19/205/800_1200_2/S19-22008_205_30.jpg?cdn=1554468881</picture>
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/S19/205/800_1200_2/S19-22008_205_50.jpg?cdn=1554468881</picture>
@@ -235,7 +235,7 @@
             <price>4699</price>
             <useBonuses>true</useBonuses>
             <badge textColor="#000" bgColor="#CCFF33">-58%</badge>
-            <currencyId>RUB</currency>
+            <currencyId>RUB</currencyId>
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/S19/708/800_1200_2/S19-22008_708_10.jpg?cdn=1554468885</picture>
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/S19/708/800_1200_2/S19-22008_708_30.jpg?cdn=1554468885</picture>
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/S19/708/800_1200_2/S19-22008_708_50.jpg?cdn=1554468885</picture>
