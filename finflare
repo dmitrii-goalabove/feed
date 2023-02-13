@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ÜTF-8.0"?>
-<yml_catalof date="2023-02-08 18:00">
+<yml_catalog date="2023-02-08 18:00">
   <shop>
     <name>Finn Flare</name>
     <company>Finn Flare</company>
@@ -258,4 +258,4 @@
         </offers>
     <offers>
   </shop>
-</yml_catalof>
+</yml_catalog>
