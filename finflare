@@ -122,7 +122,7 @@
             <price>2799</price>
             <useBonuses>true</useBonuses>
             <badge textColor="#000" bgColor="#CCFF33">НОВИНКА</badge>
-            <currencyId>RUB</currency>
+            <currencyId>RUB</currencyId>
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBC/907/800_1200_2/FBC21039_907_20.jpg?cdn=1649234546</picture>
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBC/907/800_1200_2/FBC21039_907_30.jpg?cdn=1649234546</picture>
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBC/907/800_1200_2/FBC21039_907_50.jpg?cdn=1649234546</picture>
