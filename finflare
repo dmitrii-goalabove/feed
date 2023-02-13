@@ -252,7 +252,7 @@
             <param name="Вид застежки">Молния пластиковая, Пуговицы</param>
             <rec title="Дополни образ">20701</rec>
             <othercolors>21004</othercolors>
-        </offers>
+        </offer>
     <offers>
   </shop>
 </yml_catalog>
