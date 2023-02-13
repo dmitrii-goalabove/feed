@@ -69,7 +69,7 @@
             <categoryId>27</categoryId>
             <price>1999</price>
             <useBonuses>true</useBonuses>
-            <currencyId>RUB</currency>
+            <currencyId>RUB</currencyId>
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/146/800_1200_2/BAS-20067_146_20.jpg?cdn=1664366951</picture>
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/146/800_1200_2/BAS-20067_146_30.jpg?cdn=1664366951</picture>
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/146/800_1200_2/BAS-20067_146_40.jpg?cdn=1664366951</picture>
@@ -95,7 +95,7 @@
             <categoryId>27</categoryId>
             <price>1999</price>
             <useBonuses>true</useBonuses>
-            <currencyId>RUB</currency>
+            <currencyId>RUB</currencyId>
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/105/800_1200_2/BAS-20067_105_20.jpg?cdn=1664366951</picture>
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/105/800_1200_2/BAS-20067_105_30.jpg?cdn=1664366951</picture>
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/105/800_1200_2/BAS-20067_105_40.jpg?cdn=1664366951</picture>
