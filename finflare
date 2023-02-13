@@ -4,9 +4,6 @@
     <name>Finn Flare</name>
     <company>Finn Flare</company>
     <url>https://www.finn-flare.ru</url>
-    <currencies>
-        <currency id="RUB" rate="1"/>
-    </currencies>
     <categories>
     <category id="2">Одежда</category>
     <category id="207" parentId="2" picture="https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/146/800_1200_2/BAS-20067_146_30.jpg?cdn=1664366951">Поло</category>
