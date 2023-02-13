@@ -19,7 +19,7 @@
             <price>742</price>
             <useBonuses>true</useBonuses>
             <badge textColor="#000" bgColor="#CCFF33">-58%</badge>
-            <currencyId>RUB</currency>
+            <currencyId>RUB</currencyId>
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/328/800_1200_2/BAS-20005_328_20.jpg?cdn=1652875784g</picture>
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/328/800_1200_2/BAS-20005_328_30.jpg?cdn=1652875784</picture>
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/328/800_1200_2/BAS-20005_328_50.jpg?cdn=1652875784</picture>
