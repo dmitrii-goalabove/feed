@@ -43,7 +43,7 @@
             <categoryId>27</categoryId>
             <price>1999</price>
             <useBonuses>true</useBonuses>
-            <currencyId>RUB</currency>
+            <currencyId>RUB</currencyId>
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/200/800_1200_2/BAS-20067_200_20.jpg?cdn=1664366953</picture>
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/200/800_1200_2/BAS-20067_200_30.jpg?cdn=1664366953</picture>
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/200/800_1200_2/BAS-20067_200_40.jpg?cdn=1664366953</picture>
