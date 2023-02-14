@@ -25,7 +25,13 @@
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/328/800_1200_2/BAS-20005_328_80.jpg?cdn=1652875784</picture>
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/328/800_1200_2/BAS-20005_328_90.jpg?cdn=1652875784</picture>
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/328/800_1200_2/BAS-20005_328_100.jpg?cdn=1652875784</picture>
-            <param name="Размер">S,M,L,XL,2XL</param>
+            <param>
+            <param name="Размер">S</param>
+            <param name="Размер">M</param>
+            <param name="Размер">L</param>
+            <param name="Размер">XL</param>
+            <param name="Размер">2XL</param>
+            </param>
             <param name="Основной материал">100% хлопок</param>
             <param name="Цвет">красный</param>
             <param name="Вырез горловины">Отложной воротничок</param>
@@ -137,7 +143,7 @@
         </offer>
         <offer id="21001" available="true" sizeGridImage="https://www.finn-flare.ru/catalog/muzhskie-shorty/596513/583480">
             <name>Шорты мужские FSC21022</name>
-            <url>https://www.finn-flare.ru/catalog/muzhskie-polo/616010/2072/?SIZE=556</url>
+            <url>https://www.finn-flare.ru/catalog/muzhskie-polo/616010/20726</url>
             <categoryId>210</categoryId>
             <price>4299</price>
             <useBonuses>true</useBonuses>
@@ -157,7 +163,7 @@
         </offer>
         <offer id="21002" available="true" sizeGridImage="https://www.finn-flare.ru/catalog/muzhskie-shorty/596513/583480">
             <name>Шорты мужские FSC21022</name>
-            <url>https://www.finn-flare.ru/catalog/muzhskie-shorty/596513/2068/?SIZE=556</url>
+            <url>https://www.finn-flare.ru/catalog/muzhskie-shorty/596513/2068</url>
             <categoryId>210</categoryId>
             <price>4299</price>
             <useBonuses>true</useBonuses>
@@ -177,13 +183,13 @@
         </offer>
         <offer id="21003" available="true" sizeGridImage="https://www.finn-flare.ru/catalog/muzhskie-shorty/596513/583480">
             <name>Шорты мужские FSC21022</name>
-            <url>https://www.finn-flare.ru/catalog/muzhskie-shorty/596513/167937/?SIZE=556</url>
+            <url>https://www.finn-flare.ru/catalog/muzhskie-shorty/596513/167937</url>
             <categoryId>210</categoryId>
             <price>4299</price>
             <useBonuses>true</useBonuses>
             <badge textColor="#000" bgColor="#CCFF33">NEW</badge>
             <currencyId>RUB</currencyId>
-            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FSC/101/800_1200_2/FSC21022B_101_100.jpg?cdn=1666094942</picture>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FSC/623/800_1200_2/FSC21022_623_100.jpg?cdn=1665662959</picture>
             <param name="Размер">S</param>
             <param name="Размер">M</param>
             <param name="Размер">L</param>
@@ -195,7 +201,7 @@
             <rec title="Дополни образ">20705</rec>
             <othercolors>21001,21002</othercolors>
         </offer>
-        <offer id="20704" available="true" sizeGridImage="https://cdn.finnflare.com/upload/sizes/mujskaya.jpg?cdn=1675170376">
+        <offer id="21004" available="true" sizeGridImage="https://cdn.finnflare.com/upload/sizes/mujskaya.jpg?cdn=1675170376">
             <name>Шорты мужские S19-22008</name>
             <url>https://www.finn-flare.ru/catalog/muzhskie-shorty/316741/2091/</url>
             <categoryId>210</categoryId>
@@ -221,7 +227,7 @@
             <rec title="Дополни образ">20701</rec>
             <othercolors>21005</othercolors>
         </offer>
-        <offer id="20705" available="true" sizeGridImage="https://cdn.finnflare.com/upload/sizes/mujskaya.jpg?cdn=1675170376">
+        <offer id="21005" available="true" sizeGridImage="https://cdn.finnflare.com/upload/sizes/mujskaya.jpg?cdn=1675170376">
             <name>Шорты мужские S19-22008</name>
             <url>https://www.finn-flare.ru/catalog/muzhskie-shorty/316741/2091</url>
             <categoryId>210</categoryId>
