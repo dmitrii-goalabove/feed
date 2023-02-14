@@ -9,7 +9,7 @@
     <category id="210" picture="https://cdn.finnflare.com/upload/resize_cache/full_size/S19/708/800_1200_2/S19-22008_708_10.jpg?cdn=1554468885">Шорты</category>
     </categories>
     <offers>
-        <offer id="20701" available="true" sizeGridImage="https://cdn.finnflare.com/upload/sizes/mujskaya.jpg?cdn=1675170376">
+        <offer id="20701" available="true" group_id="111111" sizeGridImage="https://cdn.finnflare.com/upload/sizes/mujskaya.jpg?cdn=1675170376">
             <name>Поло мужское BAS-20005</name>
             <url>https://www.finn-flare.ru/catalog/muzhskie-polo/444187/2259</url>
             <categoryId>207</categoryId>
@@ -25,13 +25,11 @@
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/328/800_1200_2/BAS-20005_328_80.jpg?cdn=1652875784</picture>
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/328/800_1200_2/BAS-20005_328_90.jpg?cdn=1652875784</picture>
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/328/800_1200_2/BAS-20005_328_100.jpg?cdn=1652875784</picture>
-            <params>
             <param name="Размер">S</param>
             <param name="Размер">M</param>
             <param name="Размер">L</param>
             <param name="Размер">XL</param>
             <param name="Размер">2XL</param>
-            </params>
             <param name="Основной материал">100% хлопок</param>
             <param name="Цвет">красный</param>
             <param name="Вырез горловины">Отложной воротничок</param>
@@ -115,7 +113,7 @@
             <description>Лаконичное мужское поло из натурального хлопка. Материал хорошо пропускает воздух, держит форму и не электризуется. Модель прямого кроя с воротом на кнопках и отделкой эластичной резинкой. Свободная посадка не стесняет движений. Поло доступно в больших размерах и трех базовых цветах. Подходит для стирки в машине.</description>
             <othercolors>20702,20703</othercolors>
         </offer>
-        <offer id="20705" available="true" sizeGridImage="https://cdn.finnflare.com/upload/sizes/mujskaya.jpg?cdn=1675170376">
+        <offer id="20705" available="true" group_id="111111" sizeGridImage="https://cdn.finnflare.com/upload/sizes/mujskaya.jpg?cdn=1675170376">
             <name>Хлопковое поло с длинным рукавом BAS-20067</name>
             <url>https://www.finn-flare.ru/catalog/muzhskie-polo/584065/2168/</url>
             <categoryId>207</categoryId>
@@ -141,7 +139,7 @@
             <rec title="Дополни образ">21001,21002,21003</rec>
             <description>Мужская хб футболка-поло с коротким рукавом на весну. Базовая модель прямого силуэта. Молодежный фасон с принтом, не облегающий фигуру и хорошей посадкой. Соответствует стилю casual. Футболка выполнена из качественного 100% хлопка. Мягкая, приятная к телу ткань. Обеспечивает хороший воздухообмен, комфортная и удобная в носке.</description>
         </offer>
-        <offer id="21001" available="true" sizeGridImage="https://www.finn-flare.ru/catalog/muzhskie-shorty/596513/583480">
+        <offer id="21001" available="true" group_id="111111" sizeGridImage="https://www.finn-flare.ru/catalog/muzhskie-shorty/596513/583480">
             <name>Шорты мужские FSC21022</name>
             <url>https://www.finn-flare.ru/catalog/muzhskie-polo/616010/20726</url>
             <categoryId>210</categoryId>
@@ -161,7 +159,7 @@
             <rec title="Дополни образ">20705</rec>
             <othercolors>21002,21003</othercolors>
         </offer>
-        <offer id="21002" available="true" sizeGridImage="https://www.finn-flare.ru/catalog/muzhskie-shorty/596513/583480">
+        <offer id="21002" available="true" group_id="111111" sizeGridImage="https://www.finn-flare.ru/catalog/muzhskie-shorty/596513/583480">
             <name>Шорты мужские FSC21022</name>
             <url>https://www.finn-flare.ru/catalog/muzhskie-shorty/596513/2068</url>
             <categoryId>210</categoryId>
@@ -181,7 +179,7 @@
             <rec title="Дополни образ">20705</rec>
             <othercolors>21001,21003</othercolors>
         </offer>
-        <offer id="21003" available="true" sizeGridImage="https://www.finn-flare.ru/catalog/muzhskie-shorty/596513/583480">
+        <offer id="21003" available="true" group_id="111111" sizeGridImage="https://www.finn-flare.ru/catalog/muzhskie-shorty/596513/583480">
             <name>Шорты мужские FSC21022</name>
             <url>https://www.finn-flare.ru/catalog/muzhskie-shorty/596513/167937</url>
             <categoryId>210</categoryId>
@@ -201,7 +199,7 @@
             <rec title="Дополни образ">20705</rec>
             <othercolors>21001,21002</othercolors>
         </offer>
-        <offer id="21004" available="true" sizeGridImage="https://cdn.finnflare.com/upload/sizes/mujskaya.jpg?cdn=1675170376">
+        <offer id="21004" available="true" group_id="111111" sizeGridImage="https://cdn.finnflare.com/upload/sizes/mujskaya.jpg?cdn=1675170376">
             <name>Шорты мужские S19-22008</name>
             <url>https://www.finn-flare.ru/catalog/muzhskie-shorty/316741/2091/</url>
             <categoryId>210</categoryId>
@@ -227,7 +225,7 @@
             <rec title="Дополни образ">20701</rec>
             <othercolors>21005</othercolors>
         </offer>
-        <offer id="21005" available="true" sizeGridImage="https://cdn.finnflare.com/upload/sizes/mujskaya.jpg?cdn=1675170376">
+        <offer id="21005" available="true" group_id="111111" sizeGridImage="https://cdn.finnflare.com/upload/sizes/mujskaya.jpg?cdn=1675170376">
             <name>Шорты мужские S19-22008</name>
             <url>https://www.finn-flare.ru/catalog/muzhskie-shorty/316741/2091</url>
             <categoryId>210</categoryId>
