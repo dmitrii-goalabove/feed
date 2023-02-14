@@ -5,9 +5,8 @@
     <company>Finn Flare</company>
     <url>https://www.finn-flare.ru</url>
     <categories>
-    <category id="2">Одежда</category>
-    <category id="207" parentId="2" picture="https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/146/800_1200_2/BAS-20067_146_30.jpg?cdn=1664366951">Поло</category>
-    <category id="210" parentId="2" picture="https://cdn.finnflare.com/upload/resize_cache/full_size/S19/708/800_1200_2/S19-22008_708_10.jpg?cdn=1554468885">Шорты</category>
+    <category id="207" picture="https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/146/800_1200_2/BAS-20067_146_30.jpg?cdn=1664366951">Поло</category>
+    <category id="210" picture="https://cdn.finnflare.com/upload/resize_cache/full_size/S19/708/800_1200_2/S19-22008_708_10.jpg?cdn=1554468885">Шорты</category>
     </categories>
     <offers>
         <offer id="20701" available="true" sizeGridImage="https://cdn.finnflare.com/upload/sizes/mujskaya.jpg?cdn=1675170376">
@@ -26,11 +25,7 @@
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/328/800_1200_2/BAS-20005_328_80.jpg?cdn=1652875784</picture>
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/328/800_1200_2/BAS-20005_328_90.jpg?cdn=1652875784</picture>
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/328/800_1200_2/BAS-20005_328_100.jpg?cdn=1652875784</picture>
-            <param name="Размер">S</param>
-            <param name="Размер">M</param>
-            <param name="Размер">L</param>
-            <param name="Размер">XL</param>
-            <param name="Размер">2XL</param>
+            <param name="Размер">S,M,L,XL,2XL</param>
             <param name="Основной материал">100% хлопок</param>
             <param name="Цвет">красный</param>
             <param name="Вырез горловины">Отложной воротничок</param>
@@ -160,7 +155,7 @@
             <rec title="Дополни образ">20705</rec>
             <othercolors>21002,21003</othercolors>
         </offer>
-        <offer id="21001" available="true" sizeGridImage="https://www.finn-flare.ru/catalog/muzhskie-shorty/596513/583480">
+        <offer id="21002" available="true" sizeGridImage="https://www.finn-flare.ru/catalog/muzhskie-shorty/596513/583480">
             <name>Шорты мужские FSC21022</name>
             <url>https://www.finn-flare.ru/catalog/muzhskie-shorty/596513/2068/?SIZE=556</url>
             <categoryId>210</categoryId>
@@ -180,7 +175,7 @@
             <rec title="Дополни образ">20705</rec>
             <othercolors>21001,21003</othercolors>
         </offer>
-        <offer id="21001" available="true" sizeGridImage="https://www.finn-flare.ru/catalog/muzhskie-shorty/596513/583480">
+        <offer id="21003" available="true" sizeGridImage="https://www.finn-flare.ru/catalog/muzhskie-shorty/596513/583480">
             <name>Шорты мужские FSC21022</name>
             <url>https://www.finn-flare.ru/catalog/muzhskie-shorty/596513/167937/?SIZE=556</url>
             <categoryId>210</categoryId>
@@ -200,7 +195,7 @@
             <rec title="Дополни образ">20705</rec>
             <othercolors>21001,21002</othercolors>
         </offer>
-        <offer id="20701" available="true" sizeGridImage="https://cdn.finnflare.com/upload/sizes/mujskaya.jpg?cdn=1675170376">
+        <offer id="20704" available="true" sizeGridImage="https://cdn.finnflare.com/upload/sizes/mujskaya.jpg?cdn=1675170376">
             <name>Шорты мужские S19-22008</name>
             <url>https://www.finn-flare.ru/catalog/muzhskie-shorty/316741/2091/</url>
             <categoryId>210</categoryId>
@@ -226,7 +221,7 @@
             <rec title="Дополни образ">20701</rec>
             <othercolors>21005</othercolors>
         </offer>
-        <offer id="20701" available="true" sizeGridImage="https://cdn.finnflare.com/upload/sizes/mujskaya.jpg?cdn=1675170376">
+        <offer id="20705" available="true" sizeGridImage="https://cdn.finnflare.com/upload/sizes/mujskaya.jpg?cdn=1675170376">
             <name>Шорты мужские S19-22008</name>
             <url>https://www.finn-flare.ru/catalog/muzhskie-shorty/316741/2091</url>
             <categoryId>210</categoryId>
@@ -251,7 +246,6 @@
             <param name="Вид застежки">Молния пластиковая, Пуговицы</param>
             <rec title="Дополни образ">20701</rec>
             <othercolors>21004</othercolors>
-        </offer>
         </offer>
     </offers>
   </shop>
