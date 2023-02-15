@@ -30,7 +30,8 @@
             <param name="Цвет">красный</param>
             <param name="Вырез горловины">Отложной воротничок</param>
             <rec title="Дополни образ">21004,21005</rec>
-        <offer id="20701" available="true" group_id="111111" sizeGridImage="https://cdn.finnflare.com/upload/sizes/mujskaya.jpg?cdn=1675170376">
+        </offer>
+              <offer id="207011" available="true" group_id="111111" sizeGridImage="https://cdn.finnflare.com/upload/sizes/mujskaya.jpg?cdn=1675170376">
             <name>Поло мужское BAS-20005</name>
             <url>https://www.finn-flare.ru/catalog/muzhskie-polo/444187/2259</url>
             <categoryId>207</categoryId>
@@ -111,7 +112,7 @@
             <param name="Основной материал">100% хлопок</param>
             <param name="Цвет">серо-голубой</param>
             <param name="Вырез горловины">Воротник-стойка</param>
-            <rec title="Похожие товары">20701,20705</rec>
+            <rec title="Похожие товары">20701,207011,20705</rec>
             <description>Лаконичное мужское поло из натурального хлопка. Материал хорошо пропускает воздух, держит форму и не электризуется. Модель прямого кроя с воротом на кнопках и отделкой эластичной резинкой. Свободная посадка не стесняет движений. Поло доступно в больших размерах и трех базовых цветах. Подходит для стирки в машине.</description>
             <othercolors>20702,20703</othercolors>
         </offer>
@@ -133,7 +134,7 @@
             <param name="Основной материал">100% хлопок</param>
             <param name="Цвет">темно зеленый</param>
             <param name="Вырез горловины">Отложной воротничок</param>
-            <rec title="Дополни образ">21001,21002,21003</rec>
+            <rec title="Дополни образ">21001,207011,21002,21003</rec>
             <description>Мужская хб футболка-поло с коротким рукавом на весну. Базовая модель прямого силуэта. Молодежный фасон с принтом, не облегающий фигуру и хорошей посадкой. Соответствует стилю casual. Футболка выполнена из качественного 100% хлопка. Мягкая, приятная к телу ткань. Обеспечивает хороший воздухообмен, комфортная и удобная в носке.</description>
         </offer>
         <offer id="21001" available="true" sizeGridImage="https://www.finn-flare.ru/catalog/muzhskie-shorty/596513/583480">
