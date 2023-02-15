@@ -30,8 +30,7 @@
             <param name="Цвет">красный</param>
             <param name="Вырез горловины">Отложной воротничок</param>
             <rec title="Дополни образ">21004,21005</rec>
-        </offer>
-              <offer id="20701" available="true" group_id="111111" sizeGridImage="https://cdn.finnflare.com/upload/sizes/mujskaya.jpg?cdn=1675170376">
+        <offer id="20701" available="true" group_id="111111" sizeGridImage="https://cdn.finnflare.com/upload/sizes/mujskaya.jpg?cdn=1675170376">
             <name>Поло мужское BAS-20005</name>
             <url>https://www.finn-flare.ru/catalog/muzhskie-polo/444187/2259</url>
             <categoryId>207</categoryId>
