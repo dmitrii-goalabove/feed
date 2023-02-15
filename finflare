@@ -25,11 +25,11 @@
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/328/800_1200_2/BAS-20005_328_80.jpg?cdn=1652875784</picture>
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/328/800_1200_2/BAS-20005_328_90.jpg?cdn=1652875784</picture>
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/328/800_1200_2/BAS-20005_328_100.jpg?cdn=1652875784</picture>
-            <param name="Размер">S</param>
-            <param name="Размер">M</param>
-            <param name="Размер">L</param>
-            <param name="Размер">XL</param>
-            <param name="Размер">2XL</param>
+            <param name="Размер" unit="INT">S</param>
+            <param name="Размер" unit="INT">M</param>
+            <param name="Размер" unit="INT">L</param>
+            <param name="Размер" unit="INT">XL</param>
+            <param name="Размер" unit="INT">2XL</param>
             <param name="Основной материал">100% хлопок</param>
             <param name="Цвет">красный</param>
             <param name="Вырез горловины">Отложной воротничок</param>
