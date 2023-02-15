@@ -9,7 +9,7 @@
     <category id="210" picture="https://cdn.finnflare.com/upload/resize_cache/full_size/S19/708/800_1200_2/S19-22008_708_10.jpg?cdn=1554468885">Шорты</category>
     </categories>
     <offers>
-        <offer id="20701" available="true" sizeGridImage="https://cdn.finnflare.com/upload/sizes/mujskaya.jpg?cdn=1675170376">
+        <offer id="20701" available="true" group_id="111111" sizeGridImage="https://cdn.finnflare.com/upload/sizes/mujskaya.jpg?cdn=1675170376">
             <name>Поло мужское BAS-20005</name>
             <url>https://www.finn-flare.ru/catalog/muzhskie-polo/444187/2259</url>
             <categoryId>207</categoryId>
@@ -26,10 +26,28 @@
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/328/800_1200_2/BAS-20005_328_90.jpg?cdn=1652875784</picture>
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/328/800_1200_2/BAS-20005_328_100.jpg?cdn=1652875784</picture>
             <param name="Размер">S</param>
+            <param name="Основной материал">100% хлопок</param>
+            <param name="Цвет">красный</param>
+            <param name="Вырез горловины">Отложной воротничок</param>
+            <rec title="Дополни образ">21004,21005</rec>
+        </offer>
+              <offer id="20701" available="true" group_id="111111" sizeGridImage="https://cdn.finnflare.com/upload/sizes/mujskaya.jpg?cdn=1675170376">
+            <name>Поло мужское BAS-20005</name>
+            <url>https://www.finn-flare.ru/catalog/muzhskie-polo/444187/2259</url>
+            <categoryId>207</categoryId>
+            <oldprice>1799</oldprice>
+            <price>742</price>
+            <useBonuses>true</useBonuses>
+            <badge textColor="#000" bgColor="#CCFF33">-58%</badge>
+            <currencyId>RUB</currencyId>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/328/800_1200_2/BAS-20005_328_20.jpg?cdn=1652875784g</picture>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/328/800_1200_2/BAS-20005_328_30.jpg?cdn=1652875784</picture>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/328/800_1200_2/BAS-20005_328_50.jpg?cdn=1652875784</picture>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/328/800_1200_2/BAS-20005_328_70.jpg?cdn=1652875784</picture>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/328/800_1200_2/BAS-20005_328_80.jpg?cdn=1652875784</picture>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/328/800_1200_2/BAS-20005_328_90.jpg?cdn=1652875784</picture>
+            <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/328/800_1200_2/BAS-20005_328_100.jpg?cdn=1652875784</picture>
             <param name="Размер">M</param>
-            <param name="Размер">L</param>
-            <param name="Размер">XL</param>
-            <param name="Размер">2XL</param>
             <param name="Основной материал">100% хлопок</param>
             <param name="Цвет">красный</param>
             <param name="Вырез горловины">Отложной воротничок</param>
@@ -49,7 +67,6 @@
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/200/800_1200_2/BAS-20067_200_70.jpg?cdn=1664366953</picture>
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/200/800_1200_2/BAS-20067_200_80.jpg?cdn=1664366953</picture>
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/200/800_1200_2/BAS-20067_200_100.jpg?cdn=1664366953</picture>
-            <param name="Размер">S-M-L-XL-2XL</param>
             <param name="Основной материал">100% хлопок</param>
             <param name="Цвет">черный</param>
             <param name="Вырез горловины">Воротник-стойка</param>
@@ -71,11 +88,6 @@
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/146/800_1200_2/BAS-20067_146_70.jpg?cdn=1664366951</picture>
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/146/800_1200_2/BAS-20067_146_80.jpg?cdn=1664366951</picture>
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/146/800_1200_2/BAS-20067_146_100.jpg?cdn=1664366951</picture>
-            <param name="Размер" unit="INT">S</param>
-            <param name="Размер" unit="INT">M</param>
-            <param name="Размер" unit="INT">L</param>
-            <param name="Размер" unit="INT">XL</param>
-            <param name="Размер" unit="INT">2XL</param>
             <param name="Основной материал">100% хлопок</param>
             <param name="Цвет">глубокий морской синий</param>
             <param name="Вырез горловины">Воротник-стойка</param>
@@ -97,11 +109,6 @@
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/105/800_1200_2/BAS-20067_105_70.jpg?cdn=1664366951</picture>
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/105/800_1200_2/BAS-20067_105_80.jpg?cdn=1664366951</picture>
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/BAS/105/800_1200_2/BAS-20067_105_100.jpg?cdn=1664366951</picture>
-            <param name="Размер" unit="INT">S</param>
-            <param name="Размер" unit="INT">M</param>
-            <param name="Размер" unit="INT">L</param>
-            <param name="Размер" unit="INT">XL</param>
-            <param name="Размер" unit="INT">2XL</param>
             <param name="Основной материал">100% хлопок</param>
             <param name="Цвет">серо-голубой</param>
             <param name="Вырез горловины">Воротник-стойка</param>
@@ -124,11 +131,6 @@
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBC/907/800_1200_2/FBC21039_907_80.jpg?cdn=1649234546</picture>
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBC/907/800_1200_2/FBC21039_907_90.jpg?cdn=1649234546</picture>
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FBC/907/800_1200_2/FBC21039_907_100.jpg?cdn=1649234546</picture>
-            <param name="Размер" unit="INT">S</param>
-            <param name="Размер" unit="INT">M</param>
-            <param name="Размер" unit="INT">L</param>
-            <param name="Размер" unit="INT">XL</param>
-            <param name="Размер" unit="INT">2XL</param>
             <param name="Основной материал">100% хлопок</param>
             <param name="Цвет">темно зеленый</param>
             <param name="Вырез горловины">Отложной воротничок</param>
@@ -144,11 +146,6 @@
             <badge textColor="#000" bgColor="#CCFF33">NEW</badge>
             <currencyId>RUB</currencyId>
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FSC/920/800_1200_2/FSC21022B_920_100.jpg?cdn=1666094943</picture>
-            <param name="Размер" unit="INT">S</param>
-            <param name="Размер" unit="INT">M</param>
-            <param name="Размер" unit="INT">L</param>
-            <param name="Размер" unit="INT">XL</param>
-            <param name="Размер" unit="INT">2XL</param>
             <param name="Основной материал">100% хлопок</param>
             <param name="Цвет">920 (оливковый)</param>
             <param name="Вид застежки">Молния пластиковая, Пуговицы</param>
@@ -164,11 +161,6 @@
             <badge textColor="#000" bgColor="#CCFF33">NEW</badge>
             <currencyId>RUB</currencyId>
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FSC/101/800_1200_2/FSC21022B_101_100.jpg?cdn=1666094942</picture>
-            <param name="Размер" unit="INT">S</param>
-            <param name="Размер" unit="INT">M</param>
-            <param name="Размер" unit="INT">L</param>
-            <param name="Размер" unit="INT">XL</param>
-            <param name="Размер" unit="INT">2XL</param>
             <param name="Основной материал">100% хлопок</param>
             <param name="Цвет">темно-синий</param>
             <param name="Вид застежки">Молния пластиковая, Пуговицы</param>
@@ -184,11 +176,6 @@
             <badge textColor="#000" bgColor="#CCFF33">NEW</badge>
             <currencyId>RUB</currencyId>
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/FSC/623/800_1200_2/FSC21022_623_100.jpg?cdn=1665662959</picture>
-            <param name="Размер" unit="INT">S</param>
-            <param name="Размер" unit="INT">M</param>
-            <param name="Размер" unit="INT">L</param>
-            <param name="Размер" unit="INT">XL</param>
-            <param name="Размер" unit="INT">2XL</param>
             <param name="Основной материал">100% хлопок</param>
             <param name="Цвет">светло-коричневый</param>
             <param name="Вид застежки">Молния пластиковая, Пуговицы</param>
@@ -210,11 +197,6 @@
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/S19/205/800_1200_2/S19-22008_205_70.jpg?cdn=1554468881</picture>
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/S19/205/800_1200_2/S19-22008_205_90.jpg?cdn=1554468881</picture>
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/S19/205/800_1200_2/S19-22008_205_100.jpg?cdn=1554468881</picture>
-            <param name="Размер" unit="INT">S</param>
-            <param name="Размер" unit="INT">M</param>
-            <param name="Размер" unit="INT">L</param>
-            <param name="Размер" unit="INT">XL</param>
-            <param name="Размер" unit="INT">2XL</param>
             <param name="Основной материал">98% хлопок, 2% эластан</param>
             <param name="Цвет">серый</param>
             <param name="Вид застежки">Молния пластиковая, Пуговицы</param>
@@ -236,11 +218,6 @@
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/S19/708/800_1200_2/S19-22008_708_70.jpg?cdn=1554468885</picture>
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/S19/708/800_1200_2/S19-22008_708_90.jpg?cdn=1554468885</picture>
             <picture>https://cdn.finnflare.com/upload/resize_cache/full_size/S19/708/800_1200_2/S19-22008_708_100.jpg?cdn=1554468885</picture>
-            <param name="Размер" unit="INT">S</param>
-            <param name="Размер" unit="INT">M</param>
-            <param name="Размер" unit="INT">L</param>
-            <param name="Размер" unit="INT">XL</param>
-            <param name="Размер" unit="INT">2XL</param>
             <param name="Основной материал">98% хлопок, 2% эластан</param>
             <param name="Цвет">серый</param>
             <param name="Вид застежки">Молния пластиковая, Пуговицы</param>
