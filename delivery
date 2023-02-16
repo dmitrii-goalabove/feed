@@ -1,0 +1,96 @@
+{
+    "deliveries": [
+        {
+            "id": "regular",
+            "title": "Доставка курьером",
+            "hasPickupLocations": false,
+            "description": "Доставка заказа до двери квартиры или офиса",
+            "type": "delivery",
+            "price": 0,
+            "min": 3,
+            "timeLabel": "от 3 дней"
+        },
+        {
+            "id": "pickup",
+            "title": "Доставка в пункты выдачи",
+            "hasPickupLocations": true,            
+            "description": "Cамовывоз из пункта выдачи",
+            "type": "pickup",
+            "price": 0,
+            "min": 3,
+            "timeLabel": "от 3 дней",
+            "locations": 
+            [
+              {
+                "id": "a0001",
+                "title": "Пункт выдачи CDEK",
+                "address": "ул Маршала Чуйкова д 55",
+                "city": "Казань",
+                "time": "Каждый день с 9 до 20",
+                "subway": "",
+                "mall": "",
+                "lat": "55,836474",
+                "lon": "49,139194",
+                "price": 0,
+                "min": 3,
+                "timeLabel": "Доставка: 21.02.2023"
+              },
+              {
+                "id": "a0002",
+                "title": "Пункт выдачи CDEK",
+                "address": "ул Маршала Чуйкова д 55",
+                "city": "Казань",
+                "time": "Каждый день с 9 до 20",
+                "subway": "",
+                "mall": "",
+                "lat": "55,836474",
+                "lon": "49,139194",
+                "price": 0,
+                "min": 3,
+                "timeLabel": "Доставка: 21.02.2023"
+            }
+          ]
+        },
+        {        
+            "id": "pickup",
+            "title": "Забрать из магазина",
+            "hasPickupLocations": true,            
+            "description": "Самовывоз из магазина Henderson",
+            "type": "pickup",
+            "price": 0,
+            "min": 0,
+            "timeLabel": "Сегодня",
+            "locations":  
+            [
+              {
+                "id": "b0001",
+                "title": "ТРК ТАНДЕМ",
+                "address": "пр-т Ибрагимова, д.56",
+                "city": "Казань",
+                "time": "Каждый день с 10 до 22",
+                "subway": "",
+                "mall": "",
+                "lat": "55.821173",
+                "lon": "49.093397",
+                "price": 0,
+                "min": 0,
+                "timeLabel": "Отложим на кассу: через 15 минут"
+              },
+              {
+                "id": "b0002",
+                "title": "ТРЦ KazanMall",
+                "address": "ул. Павлюхина, д.91",
+                "city": "Казань",
+                "time": "Каждый день с 10 до 22",
+                "subway": "",
+                "mall": "",
+                "lat": "55.768608",
+                "lon": "49.148222",
+                "price": 0,
+                "min": 0,
+                "timeLabel": "Отложим на кассу: через 15 минут"
+            }
+          ]
+        }
+    ]
+}
