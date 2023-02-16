@@ -1,0 +1,33 @@
+{
+  "message": "Спасибо за ваш заказ.\nОжидайте SMS о готовности,
+  "orders": [
+    {
+      "success": true,
+      "id": "12345",
+      "publicId": "HD-APP-З44566",
+      "uuid": "2d81f6e5-01cb-44ca-abb0-ded88c1fc982",
+      "items": [
+        {
+          "name": "Пуловер трикотажный",
+          "id": "00a03026-412a-54fe-a9df-dcf9325f8618",
+          "privateId": "3464",
+          "configurationId": "3464",
+          "price": 4999,
+          "quantity": 1,
+          "discount": 0,
+          "subtotal": 4999
+        },
+        {
+          "name": "Зонт однотонный",
+          "id": "523036eb-b776-5795-b24b-0f224f2d8b17",
+          "privateId": "6527",
+          "configurationId": "6527",
+          "price": 4599,
+          "quantity": 1,
+          "discount": 0,
+          "subtotal": 4599
+        }
+      ]
+    }
+  ]
+}
