@@ -3,7 +3,8 @@
         {
             "id": "13",
             "title": "Наличными или картой при получении",
-            "type": "cash","card_on_delivery",
+            "type": "cash",
+            "type": "card_on_delivery",
         },
         {
             "id": "001",
