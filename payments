@@ -3,17 +3,17 @@
         {
             "id": "13",
             "title": "Наличным при получении",
-            "type": "cash",
+            "type": "cash"
         },
         {
             "id": "14",
             "title": "Картой при получении",
-            "type": "card_on_delivery",
+            "type": "card_on_delivery"
         },
         {
             "id": "001",
             "title": "Оплата-онлайн",
-            "type": "card",
+            "type": "card"
         }
     ]
 }
